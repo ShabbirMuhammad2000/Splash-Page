@@ -15,8 +15,16 @@ body {
 .wrapper {
   position: relative;
   width: 1440px;
-  min-height: 100vh;
+  height: 1388px;
   margin: auto;
+}
+
+.brand-img {
+  position: absolute;
+  width: 193px;
+  height: 47.63773727416992px;
+  top: 50.2525634765625px;
+  left: 221px;
 }
 
 .title {
@@ -43,5 +51,88 @@ body {
   line-height: 32px;
   letter-spacing: 0em;
   text-align: left;
-  
+}
+
+.app-store-btn {
+  position: absolute;
+  width: 138.44346618652344px;
+  height: 46.277523040771484px;
+  top: 531px;
+  left: 221px;
+}
+
+.app-store-btn img {
+  width: 138.44346618652344px;
+  height: 46.277523040771484px;
+}
+
+.google-play-btn {
+  position: absolute;
+  width: 156.18612670898438px;
+  height: 46.27737045288086px;
+  top: 531px;
+  left: 381.8138732910156px;
+}
+
+.google-play-btn img {
+  width: 156.18612670898438px;
+  height: 46.27737045288086px;
+}
+
+.main-image-container {
+  position: absolute;
+  width: 535.7173461914062px;
+  height: 309.2696533203125px;
+  top: 229.7303466796875px;
+  left: 683.28271484375px;
+  padding: 0px 0px 0.000003520291102176998px 0px;
+}
+
+.main-image-container img {
+  height: 411.15px;
+}
+
+.profile-img {
+  position: absolute;
+  width:  270.00000000000006px;
+  height: 444.0000000000001px;
+  top: 686px;
+  left: 737.0001220703125px;
+  position: 0 deg;
+}
+
+.product-img {
+  position: absolute;
+  width:  270.00000000000006px;
+  height: 244.0000000000001px;
+  top: 1157px;
+  left: 737px;
+  position: 0 deg;
+}
+
+.orders-img {
+  position: absolute;
+  width:  270.00000000000006px;
+  height: 470.0000000000001px;
+  top: 913px;
+  left: 479px;
+  position: 0 deg;
+}
+
+.cart-img {
+  position: absolute;
+  width:  270.00000000000006px;
+  height: 244.0000000000001px;
+  top: 1157px;
+  left: 221px;
+  position: 0 deg;
+}
+
+.home-img {
+  position: absolute;
+  width: 270.00000000000006px;
+  height: 470.0000000000001px;
+  top: 908px;
+  left: 995px;
+  position: 0 deg;
 }
