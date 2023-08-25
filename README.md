@@ -1,4 +1,13 @@
-# Splash Page with Background Options
+# Splash Page 
+
+
+**Table of Contents**
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+ - [Usage](#usage)
+ - [Deployment](#deployment)
+- [License](#license)
 
 ## Description
 
